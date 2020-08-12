@@ -29,7 +29,7 @@ while(1):
 
     #CURL and POST metrics to the custom device "DynatraceStock"
     headers = {
-        'Authorization': 'Api-Token 3s7p-4SZTFWrRV4cdELoU',
+        'Authorization': 'Api-Token --',
         'Content-Type': 'application/json',
     }
 
